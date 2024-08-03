@@ -7,6 +7,10 @@
 
 - 🌱 I am currently learning **Machine Learning and Artificial Intelligence**
 
+- 🤝 I am looking forward to **collaborate on exciting projects**
+
+- 💼 I am open for **job opportunities** (Feel free to reach out to me!)
+
 - ⚡ Fun fact: **I enjoy creating digital art**
 
 <h3 align="left">Connect with me:</h3>
