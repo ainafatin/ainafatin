@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Aina Fatin 👋</h1>
-<h3 align="center">An aspiring data scientist from Malaysia</h3>
+<h3 align="center">An aspiring Data Scientist from Malaysia</h3>
 
 - 🎓 I graduated in **Information Systems (Business Analytics)**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I am looking forward to **collaborate on exciting projects**
 
-- 💼 I am open for **job opportunities** (Feel free to reach out to me!)
+- 💼 I am open for **job opportunities** *— Feel free to reach out to me!*
 
 - ⚡ Fun fact: **I enjoy creating digital art**
 
