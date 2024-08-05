@@ -5,7 +5,7 @@
 
 - 🔭 I am interested in **Data Analytics and Data Science**
 
-- 🌱 I am currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I am currently learning **Artificial Intelligence**
 
 - 🤝 I am looking forward to **collaborate on exciting projects**
 
