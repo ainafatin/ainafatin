@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I am Aina Fatin 👋</h1>
-<h3 align="center">An aspiring Data Scientist from Malaysia</h3>
 
 - 🎓 I graduated in **Information Systems (Business Analytics)**
 
