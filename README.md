@@ -4,18 +4,13 @@
 
 - 🔭 I am interested in **Data Analytics and Data Science**
 
-- 🌱 I am currently learning **Artificial Intelligence**
-
 - 🤝 I am looking forward to **collaborate on exciting projects**
 
 - 💼 I am open for **job opportunities** *— Feel free to reach out to me!*
 
-- ⚡ Fun fact: **I enjoy creating digital art**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:ainaftn@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
-<a href="https://instagram.com/spillthetehais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spillthetehais" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages and Tools:</h3>
